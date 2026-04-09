@@ -2,7 +2,7 @@
 
 ## 🧭 Introduction
 
-In today’s data-driven ecosystem, organizations depend on scalable and efficient data pipelines to transform raw data into meaningful insights. **CloudWeave** is an end-to-end data engineering project built on Microsoft Azure that demonstrates how modern cloud services can be integrated to design robust ETL workflows.
+In today’s data-driven ecosystem, organizations rely on scalable and efficient data pipelines to transform raw data into meaningful insights. **CloudWeave** is an end-to-end data engineering project built on Microsoft Azure that demonstrates how modern cloud services can be integrated to design robust ETL workflows.
 
 This project simulates a real-world scenario where data is collected from multiple external sources, processed using distributed systems, and stored in a structured format for analytics and decision-making.
 
