@@ -40,9 +40,9 @@ Azure Data Factory is used to:
 * Automate data ingestion workflows
 * Orchestrate movement of data into cloud storage
 
-🎥 **ADF Pipeline Preview (5-sec demo)**
-![ADF Pipeline Video](https://via.placeholder.com/600x300.gif?text=Azure+Data+Factory+Pipeline+Demo)
+🎥 **ADF Pipeline Preview (16-sec demo)**
 
+![ADF Pipeline Video](./assets/Dynamic-pipeline.gif)
 
 ---
 
