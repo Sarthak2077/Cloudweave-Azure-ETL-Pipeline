@@ -79,7 +79,11 @@ Transformed data is loaded into Azure Synapse Analytics:
 
 ---
 
-### 5️⃣ Data Analysis (SQL)
+### 5️⃣ Data Analysis (Spark SQL)
+
+🎥 **Databricks Preview (16-sec demo)**
+
+![spark sql Video](./assets/download.gif)
 
 SQL is used to extract insights and perform analysis:
 
