@@ -101,7 +101,7 @@ SQL is used to extract insights and perform analysis:
 | Storage      | Azure Data Lake            |
 | Processing   | Azure Databricks (PySpark) |
 | Warehousing  | Azure Synapse Analytics    |
-| Querying     | SQL                        |
+| Querying     | Spark SQL                        |
 | Data Sources | REST APIs, GitHub          |
 
 ---
