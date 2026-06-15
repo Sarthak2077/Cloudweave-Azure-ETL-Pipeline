@@ -67,6 +67,12 @@ Data transformation is performed using Azure Databricks:
 
 PySpark enables distributed processing, making the system efficient and scalable.
 
+![Visualization](./assets/visual-2.png)
+
+![Visualization](./assets/visual.png)
+
+![Visualization](./assets/Monthly-Trend.png)
+
 ---
 
 ### 4️⃣ Data Warehousing (Azure Synapse Analytics)
