@@ -71,8 +71,6 @@ PySpark enables distributed processing, making the system efficient and scalable
 
 ![Visualization](./assets/visual.png)
 
-![Visualization](./assets/Monthly-Trend.png)
-
 ---
 
 ### 4️⃣ Data Warehousing (Azure Synapse Analytics)
@@ -83,6 +81,7 @@ Transformed data is loaded into Azure Synapse Analytics:
 * Optimized schema for performance
 * Efficient querying of large datasets
 
+![Visualization](./assets/Monthly-Trend.png)
 ---
 
 ### 5️⃣ Data Analysis (Spark SQL)
