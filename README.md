@@ -148,6 +148,6 @@ It demonstrates skills relevant for:
 
 ## 💬 Final Thoughts
 
-CloudWeave demonstrates my complete understanding of modern cloud-based data engineering workflows. From ingestion to analytics, this project reflects my practical implementation of scalable and efficient data pipelines used in industry.
+CloudWeave demonstrates my practical understanding of modern cloud-based data engineering workflows. From ingestion to analytics, this project reflects my practical implementation of scalable and efficient data pipelines used in industry.
 
 ---
