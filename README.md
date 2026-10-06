@@ -137,14 +137,40 @@ It demonstrates skills relevant for:
 
 ---
 
-## 🔮 Future Enhancements
+## 🔮 Future Enhancements  ( if needed )
 
-* 📊 Integration with Power BI dashboards
-* ⚡ Real-time streaming (Event Hub / Kafka)
-* 🔁 CI/CD pipeline automation
-* 🛡️ Data validation & monitoring
+- 📊 Integration with Power BI dashboards
+- ⚡ Real-time streaming (Event Hubs / Kafka)
+- 🔁 CI/CD pipeline automation
+- 🛠️ Workflow orchestration using Apache Airflow
+- 🛡️ Data validation, quality checks & monitoring
 
 ---
+
+# Top 5 Business Questions :-
+### Which bike brands and products are performing the best?
+
+→ Helps identify high-performing brands/products and prioritize inventory and sales efforts.
+
+### Which product categories generate the highest sales/revenue?
+
+→ Helps the business understand which bike categories have the strongest commercial demand.
+
+### Which customers are the most valuable or active?
+
+→ Helps identify important customer segments and support customer-retention strategies.
+
+### How are sales/orders trending over time?
+
+→ Helps management identify sales patterns, growth/decline periods, and changing demand.
+
+### Which products or categories require better inventory planning?
+
+→ By combining product, order, and stock-related data, the business can identify products with demand that may require replenishment or closer inventory monitoring.
+
+# What business problem did your project solve?
+
+The project was designed to turn fragmented bike sales and relational data from multiple sources into an analytics-ready data platform. I built an Azure ETL pipeline that ingested the data through ADF, processed and cleaned it using PySpark, stored it in a structured warehouse using Synapse, and then used Spark SQL to answer business questions around product performance, customer activity, sales trends, category performance, and inventory planning.
 
 ## 💬 Final Thoughts
 
