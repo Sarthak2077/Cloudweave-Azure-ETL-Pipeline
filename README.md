@@ -148,23 +148,28 @@ It demonstrates skills relevant for:
 ---
 
 # Top 5 Business Questions :-
-### Which bike brands and products are performing the best?
+### Which bike brands and products are performing the best ? and why ?
+Trek
 
 → Helps identify high-performing brands/products and prioritize inventory and sales efforts.
 
-### Which product categories generate the highest sales/revenue?
+### Which product categories generate the highest sales/revenue ? and why ?
+Mountain Bikes
 
 → Helps the business understand which bike categories have the strongest commercial demand.
 
-### Which customers are the most valuable or active?
+### Which customers are the most valuable or active ? and why ?
+Johnathan Velazquez
 
 → Helps identify important customer segments and support customer-retention strategies.
 
-### How are sales/orders trending over time?
+### How are sales/orders trending over time ? and why ?
+Marginal
 
-→ Helps management identify sales patterns, growth/decline periods, and changing demand.
+→ Helps manage identify sales patterns, growth/decline periods, and changing demand.
 
-### Which products or categories require better inventory planning?
+### Which products or categories require better inventory planning ? and why ?
+Trek Fuel EX 8 29 XT
 
 → By combining product, order, and stock-related data, the business can identify products with demand that may require replenishment or closer inventory monitoring.
 
